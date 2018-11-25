@@ -1,0 +1,99 @@
+[
+    {
+        "name": "Balrog",
+        "gender": "male",
+        "country": "Spain",
+        "birth": "27-01-1967"
+    },
+    {
+        "name": "Blanka",
+        "gender": "male",
+        "country": "Brasil",
+        "birth": "12-02-1966"
+    },
+    {
+        "name": "Cammy",
+        "gender": "female",
+        "country": "Regno Unito",
+        "birth": "06-01-1974"
+    },
+    {
+        "name": "Chun-Li",
+        "gender": "female",
+        "country": "China",
+        "birth": "01-03-1968"
+    },
+    {
+        "name": "Dee Jay",
+        "gender": "male",
+        "country": "Giamaica",
+        "birth": "31-10-1965"
+    },
+    {
+        "name": "Dhalsim",
+        "gender": "male",
+        "country": "India",
+        "birth": "22-11-1952"
+    },
+    {
+        "name": "Fei Long",
+        "gender": "male",
+        "country": "Hong Kong",
+        "birth": "23-04-1969"
+    },
+    {
+        "name": "Guile",
+        "gender": "male",
+        "country": "Stati Uniti",
+        "birth": "23-12-1960"
+    },
+    {
+        "name": "Honda",
+        "gender": "male",
+        "country": "Japan",
+        "birth": "03-11-1960"
+    },
+    {
+        "name": "Ken",
+        "gender": "male",
+        "country": "Stati Uniti",
+        "birth": "14-02-1965"
+    },
+    {
+        "name": "M. Bison",
+        "gender": "male",
+        "country": "Stati Uniti",
+        "birth": "04-09-1968"
+    },
+    {
+        "name": "Ryu",
+        "gender": "male",
+        "country": "Japan",
+        "birth": "20-09-1964"
+    },
+    {
+        "name": "Sagat",
+        "gender": "male",
+        "country": "Thailandia",
+        "birth": "02-07-1955"
+    },
+    {
+        "name": "T. Hawk",
+        "gender": "male",
+        "country": "Mexico",
+        "birth": "21-07-1959"
+    },
+    {
+        "name": "Vega",
+        "gender": "male",
+        "country": "Thailandia",
+        "birth": "17-04-1955"
+    },
+    {
+        "name": "Zangief",
+        "gender": "male",
+        "country": "Russia",
+        "birth": "01-06-1956"
+    }
+]
+
