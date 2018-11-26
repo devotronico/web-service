@@ -61,7 +61,7 @@ require_once 'config/Database.php';
 require_once 'app/models/Data.php';    
 require_once 'app/controller/Controller.php';   
 require_once 'app/controller/ListController.php';   
-// CLASSI API
+// CLASSI API REST
 require_once 'api/service/Service.php';   
 require_once 'api/service/GetService.php';   
 require_once 'api/service/PostService.php';   
@@ -71,6 +71,16 @@ require_once 'api/models/Get.php';
 require_once 'api/models/Post.php';   
 require_once 'api/models/Update.php';   
 require_once 'api/models/Delete.php';   
+// CLASSI API SOAP SERVER
+require_once 'api_soap/soap_server/service/Service.php';   
+require_once 'api_soap/soap_server/service/GetService.php';   
+require_once 'api_soap/soap_server/service/PostService.php';   
+require_once 'api_soap/soap_server/service/UpdateService.php';   
+require_once 'api_soap/soap_server/service/DeleteService.php';   
+require_once 'api_soap/soap_server/models/Get.php';   
+require_once 'api_soap/soap_server/models/Post.php';   
+require_once 'api_soap/soap_server/models/Update.php';   
+require_once 'api_soap/soap_server/models/Delete.php';   
 //require_once 'api/models/JsonManager.php'; 
 // ALTRO  
 require_once 'helpers/functions.php';   

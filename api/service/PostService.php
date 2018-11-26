@@ -36,16 +36,10 @@ class PostService extends Service{
      */
     public function postSingle() {
 
-      //  if ( isset( $_POST )) { var_dump( $_POST ); echo '<pre>';print_r( $_POST ); }
-
-
       // https://www.sitepoint.com/community/t/php-input-example/2096
         $data = json_decode(file_get_contents("php://input"));
 
-
         $result = $this->post->postSingleData($data);
-        // $result = $this->post->postSingleData($data->name, $data->gender, $data->email, $data->birth, $data->country);
-
       
         if ( $result ) {
 
@@ -55,8 +49,6 @@ class PostService extends Service{
         echo json_encode(array('message' => 'Utente Non Creato'));
         }
     
-
-        
     }
 
 
