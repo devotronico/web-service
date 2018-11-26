@@ -39,7 +39,7 @@ class PostService extends Service{
       //  if ( isset( $_POST )) { var_dump( $_POST ); echo '<pre>';print_r( $_POST ); }
 
 
-        // Get raw posted data
+      // https://www.sitepoint.com/community/t/php-input-example/2096
         $data = json_decode(file_get_contents("php://input"));
 
 
